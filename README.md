@@ -1,9 +1,22 @@
-# Hospital Database
+# King Faisal Specialist Hospital — Database System
 
-This project was completed in November 2024 as part of a school assignment by a team of four students, including myself.
+## Abstract
+This project designs and implements a relational database system for King Faisal Specialist Hospital, focused on supporting receptionist operations. The system manages patient registration, appointment scheduling, doctor assignments, and departmental records. The database was designed using an EER diagram and relational schema, implemented in SQL via Oracle APEX, and extended into a functional application using the App Builder tool.
 
-The goal of the project was to learn the fundamentals of database design. We began by selecting our domain and view, then created an ER diagram, followed by a relational schema, a data dictionary, and detailed descriptions of all relations and attributes.
+## Technologies Used
+- **Oracle APEX** 
+- **Oracle App Builder** 
 
-Next, we implemented the database using SQL in Oracle APEX, creating tables for all entities, inserting data, and executing various queries. We then built an application using the App Builder tool.
+## Deliverables
+| File | Description |
+|---|---|
+| Report.pdf | Full project report: EER diagram, relational schema, data dictionary, SQL queries, and App Builder screenshots |
+| Presentation.pdf | Final presentation slides |
 
-Finally, we prepared and delivered a presentation to showcase our project to the class.
+## Developers
+- Hussah Alotaibi
+- Falwa Alkhalifah
+- Leen Alzahrani
+- Rathath Hassan
+
+This project was completed in November 2024.
